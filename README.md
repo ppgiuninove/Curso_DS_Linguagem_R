@@ -13,9 +13,9 @@ Os autores são alunos e professores do Programa de Pós-graduação em Informá
 
 Os autores do material são:
 
-# Prof. Dr. André Felipe Henriques Librantz - Professor e Diretor do PPGI  
-# Prof. Dr. Marcos Antônio Gaspar - Professor do PPGI   
-# Dr. José Carmino - Aluno de doutorado do PPGI   
-# Prof. Dr. Fellipe Martins  - Professor do PPGI   
-# Prof. Dr. Domingos Márcio R. Napolitano  - Professor do PPGI   
+Prof. Dr. André Felipe Henriques Librantz - Professor e Diretor do PPGI  
+Prof. Dr. Marcos Antônio Gaspar - Professor do PPGI   
+Dr. José Carmino - Aluno de doutorado do PPGI   
+Prof. Dr. Fellipe Martins  - Professor do PPGI   
+Prof. Dr. Domingos Márcio R. Napolitano  - Professor do PPGI   
 # Augusto Cesar Garci Schultz - Aluno de Mestrado e Facilitador do Curso
